@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-https://readme-typing-svg.demolab.com/demo/?font=Patrick+Hand&size=28&color=BC34F7&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Kairos.+Welcome+to+my+channel
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=28&pause=1000&color=BC34F7&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Kairos.+Welcome+to+my+channel" alt="Typing SVG" /></a>
+
 <!--
 **aKoreyoshi/aKoreyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
